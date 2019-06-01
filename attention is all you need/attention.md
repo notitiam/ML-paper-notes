@@ -16,6 +16,8 @@
     ![alt text](https://github.com/notitiam/ML-paper-notes/raw/master/attention%20is%20all%20you%20need/attention-3.png "RNN")   
     
 - Transformer model
+    - From 'Attention is all you need' https://arxiv.org/abs/1706.03762
+    ![alt text](https://github.com/notitiam/ML-paper-notes/raw/master/attention%20is%20all%20you%20need/transformer.png "RNN")   
     - Google brain
     - No encoder RNN, only attention
     - Feed forward arch, 
