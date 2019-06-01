@@ -1,3 +1,4 @@
+- All images from Andrew Ng's Deeplearning.ai course 5: sequence models
 - Existing language models (RNN + encoder-decoder)
     ![alt text](https://github.com/notitiam/ML-paper-notes/raw/master/attention%20is%20all%20you%20need/rnn.png "RNN")   
     - Problems:
